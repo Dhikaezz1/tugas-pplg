@@ -1,0 +1,8 @@
+{
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "another-script": "command-to-run",
+      "start": "node server.js"
+    }
+  }
+  
